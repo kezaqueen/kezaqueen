@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning
-- 🌱 I’m currently learning in AkiraChix
-- 👯 I’m looking to collaborate on on any project.
+- 🔭 I’m currently working on solving problems
+- 🌱 I’m currently learning at AkiraChix
+- 👯 I’m looking to collaborate on any project.
 - 📫 How to reach me: rutagengwakezaqueen@gmail.com
